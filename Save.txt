@@ -1,0 +1,3 @@
+CHAVE PARA USAR DO BANCO DE DADOS
+
+mongodb+srv://Marqeti:Rsm22srm@MongoDB@cluster0.dbi0u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
